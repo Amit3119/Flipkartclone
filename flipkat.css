@@ -1,0 +1,62 @@
+body {
+    color: #fff
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+    background-color: #2874f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+}
+.plus{
+    color:#ffe11b;
+}
+.logo p{
+    color: #f0f0f0;
+    position: relative;
+    top: -5px;
+}
+.Search{
+    background-color: white;
+    padding: 8px;
+    width: 400px;
+    margin: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: -7px -7px 10px rgba(0,0,0,0.1);   
+   
+}
+.Search input{
+    width: 350px;
+    border: none;
+    outline: none;
+    font-size: 13px;
+}
+.Search input{
+    width: 350px;
+    border: none;
+    outline: none;
+    font-size: 13px;
+}
+.loginbtn{
+    padding: 7px 40px;
+    font-size: 16px;
+    font-weight:400;
+    border: none;
+    outline:none;
+}
+.navlink{
+    margin:0px 20px;
+    font-size:18px ;
+    color:white ;
+    text-decoration: none;
+}
+.angle{
+    height: 5px;
+}
